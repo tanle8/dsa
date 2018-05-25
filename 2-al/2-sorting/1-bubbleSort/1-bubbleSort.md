@@ -24,3 +24,9 @@ void bubble_sort( int A[], int n ) {
     }
 }
 ```
+
+Lets try to understand the pseudo code with an example: A[] = {7, 4, 5, 2}
+
+## Complexity
+
+The complexity of `bubble sort` is $O(n^2)$ in both worst and average cases, because the entire array needs to be iterated for every element.
