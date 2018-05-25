@@ -6,7 +6,7 @@ Sorting algorithms can be used for collections of numbers, string, characters, o
 
 Bubble sort is based on the idea of __repeatedly__ comparing `pairs of adjacent elements` and then swapping their positions if they exist in the wrong order.
 
-Assume that A[] is an unsorted array of _n_ elements. This array needs to be sorted in ascending order. The pseudo code is as follows:
+Assume that `A[]` is an unsorted array of _n_ elements. This array needs to be sorted in ascending order. The pseudo code is as follows:
 
 ```c++
 void bubble_sort( int A[], int n ) {
